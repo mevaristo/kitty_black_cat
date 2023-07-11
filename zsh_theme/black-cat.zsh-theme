@@ -1,4 +1,4 @@
-# Black Cat theme for Zsh
+# Black Cat theme for Oh My Zsh
 #
 # Author: Matheus Evaristo <matheus.evaristo@protonmail.com>
 # Repository: https://github.com/mevaristo/kitty_black_cat
