@@ -2,7 +2,7 @@
 #
 # Author: Matheus Evaristo <matheus.evaristo@protonmail.com>
 # Repository: https://github.com/mevaristo/kitty_black_cat
-# Based on https://github.com/dikiaap/dotfiles
+# Based on oxide Oh My Zsh theme :https://github.com/dikiaap/dotfiles
 
 # Prompt:
 # %F => Color codes
